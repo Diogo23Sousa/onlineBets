@@ -1,0 +1,28 @@
+
+
+@media (min-width:576px) {
+    .cardResponsive {
+      text-align: center;
+      width:212px;
+      background-color: white; 
+      height:71;
+      padding:17px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+    }
+  
+  }
+  
+  @media (max-width: 575px) {
+    .cardResponsive {
+      margin-left: 20%;
+      margin-right: 20%;
+      text-align: center;
+      min-height: 200px;
+      background-color: white;
+      height:71;
+      padding:17px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+    }
+}
