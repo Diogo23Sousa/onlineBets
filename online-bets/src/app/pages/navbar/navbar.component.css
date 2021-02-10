@@ -1,0 +1,45 @@
+/* NAVBAR SHADOW */
+.clean-navbar.fixed-bottom, .clean-navbar.fixed-top {
+    box-shadow:0 0 15px rgba(0, 0, 0, 0.281);
+  }
+  
+  /* POSITION OF NAVBAR */
+  .navbar {
+    position:relative;
+    padding:.4rem 1rem;
+  }
+  
+  /* NAVBRAND LOGO*/
+  .navbar-light .navbar-brand, .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
+    color:rgba(0,0,0,.9);
+  }
+  
+  .clean-navbar .logo {
+    font-size:1.5rem;
+  }
+  
+  .navbar-brand:focus, .navbar-brand:hover {
+    text-decoration:none;
+  }
+  
+  /* NAV ITEMS */
+  .clean-navbar .navbar-nav .nav-item {
+    padding-right:1rem;
+  }
+  
+  /* FONT STYLE */
+  .clean-navbar .navbar-nav .nav-link {
+    font-weight:1000;
+    font-size:0.8rem;
+    text-transform:uppercase;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

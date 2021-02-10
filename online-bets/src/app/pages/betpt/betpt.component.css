@@ -1,0 +1,23 @@
+.page {
+    font-family: Montserrat;
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+.clean-post {
+    padding: 50px;
+    background-color: rgba(146, 128, 46, 0.041);
+    border: solid 1px rgba(0, 0, 0, 0.329);
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    font-weight: bolder;
+    text-align: center;
+    padding: 40px;
+}
