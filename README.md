@@ -19,4 +19,4 @@ Installation Protocol:
 
 4. Open your browser and check the website running locally: http://localhost:4200/
 
-The website is also builded in Netlify: https://onlinebets.netlify.app/
+The website is also builded in Netlify: https://apostacerta.netlify.app/
