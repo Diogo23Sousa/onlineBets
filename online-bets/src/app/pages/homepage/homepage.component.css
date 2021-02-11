@@ -4,21 +4,27 @@
 
 .item {
   background-color: rgba(0, 0, 0, 0.048);
-  padding: 15px;
+  padding: 20px;
   border-radius: 5px;
+  border: solid 5px rgba(255, 255, 255, 0.507);
   text-align: center;
   font-weight: bolder;
+  background-color: rgba(0, 255, 0, 0.267);
+
+}
+
+h3 {
+  font-size: 18px;
+  padding: 10px;
 }
 
 .iconsStyle {
   font-weight: bolder;
-  margin-left: 10%;
-  margin-right: 10%;
-  border: solid 1px black;
   border-radius: 5px;
   margin-bottom: 3%;
-  
-  
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 /* FOR PC */
@@ -39,11 +45,17 @@
       margin: auto;
       max-width: 100vw;
       min-width: 500px;
+
     }
     
     .row {
       width: 60%;
       margin-left: 20%;
+    }
+
+    .backgroundImage {
+      background-color: #000000;
+      background-size: 1560px;;
     }
   }
   
@@ -65,6 +77,11 @@
       text-align: center;
       min-height: 280px;
       max-width: 100vw;
+    }
+
+    .backgroundImage {
+      background-color: #cccccc;
+      background-size: 2300px;
     }
   
 }
