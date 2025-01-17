@@ -1,22 +1,50 @@
-# onlineBets
 
-Description: Website for a project to present different bookmakers and their benefits.
+# Online Bets
 
-Technologies: BootstrapStudio : HTML5 / CSS3 / JS
+**Online Bets** is a website designed to showcase various bookmakers and their benefits. The project is built using **BootstrapStudio**, leveraging **HTML5**, **CSS3**, and **JavaScript** for the front-end.
 
-Using BSS:
+The website is also hosted and available on Netlify:  
+**[Online Bets on Netlify](https://apostacerta.netlify.app/)**
 
-1. Install BootstrapStudio and Open the project.
-2. Using BSS you can run your website locally.
+---
 
-Installation Protocol:
+## Technologies Used
 
-1. Clone the repository in your machine using the proper link.
+- **BootstrapStudio**
+- **HTML5 / CSS3 / JavaScript**
+- **Angular 8+**
+- **Node.js**
 
-2. Install NPM and Angular v8 +.
+---
 
-3. Move inside the main folder -> run: npm start
+## Setup Instructions
 
-4. Open your browser and check the website running locally: http://localhost:4200/
+### 1. Using BootstrapStudio (BSS)
+1. Install **BootstrapStudio** and open the project.
+2. Run the website locally within BootstrapStudio.
 
-The website is also builded in Netlify: https://apostacerta.netlify.app/
+### 2. Installation Protocol
+
+1. **Clone the repository**:  
+   Clone the project repository to your local machine using the appropriate repository link.
+
+2. **Install Dependencies**:  
+   Install **NPM** and **Angular CLI** (v8+):  
+   ```bash
+   npm install -g @angular/cli
+   npm install
+   ```
+
+3. **Run the Project Locally**:  
+   Navigate to the main project folder and start the development server:  
+   ```bash
+   npm start
+   ```
+
+4. **Access the Application**:  
+   Open your browser and navigate to:  
+   ```
+   http://localhost:4200/
+   ```
+
+---
